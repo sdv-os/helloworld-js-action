@@ -17,10 +17,15 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: actions/hello-world-javascript-action@e76147da8e5c81eaf017dede5645551d4b94427b
+uses: sdv-os/helloworld-js-action@main
 with:
-  who-to-greet: 'Mona the Octocat'
+  who-to-greet: 'Aric Demo'
 ```
+
+## Edit Code
+npm install @actions/core
+npm install @actions/github
+Programming and test this step.
 
 ## Compile the scripts.
 
